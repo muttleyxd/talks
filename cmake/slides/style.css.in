@@ -1,0 +1,11 @@
+@import url("@REMARK_STYLE@");
+
+.small
+{
+  font-size: small;
+}
+
+.medium
+{
+  font-size: medium;
+}

@@ -1,0 +1,21 @@
+@import url("@REMARK_STYLE@");
+
+.remark-container
+{
+  background-color: #131410;
+}
+
+.remark-slide, .remark-slide-content
+{
+  background-color: #0d0e0b;
+}
+
+.small
+{
+  font-size: small;
+}
+
+.medium
+{
+  font-size: medium;
+}
